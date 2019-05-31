@@ -2,5 +2,6 @@ mash avacadoes
 chopp tomatoes and onions
 add salt, pepper
 stir
+<<<<<<< HEAD
 chop cilantro
 serve cilantro  on side plate
